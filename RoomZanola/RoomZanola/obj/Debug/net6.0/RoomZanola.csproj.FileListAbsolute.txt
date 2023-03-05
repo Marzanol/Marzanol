@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\bin\Debug\net6.0\RoomZanola.exe
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\bin\Debug\net6.0\RoomZanola.deps.json
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\bin\Debug\net6.0\RoomZanola.runtimeconfig.json
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\bin\Debug\net6.0\RoomZanola.dll
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\bin\Debug\net6.0\RoomZanola.pdb
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.AssemblyInfo.cs
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.dll
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\refint\RoomZanola.dll
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.pdb
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\RoomZanola.genruntimeconfig.cache
+C:\Users\marco\Documents\GitHub\Marzanol\RoomZanola\RoomZanola\obj\Debug\net6.0\ref\RoomZanola.dll

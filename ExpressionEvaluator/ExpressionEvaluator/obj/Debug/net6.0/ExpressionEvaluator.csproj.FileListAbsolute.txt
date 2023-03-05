@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.AssemblyInfo.cs
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\net6.0\ExpressionEvaluator.exe
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\net6.0\ExpressionEvaluator.deps.json
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\net6.0\ExpressionEvaluator.runtimeconfig.json
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\net6.0\ExpressionEvaluator.dll
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\net6.0\ExpressionEvaluator.pdb
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.dll
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\refint\ExpressionEvaluator.dll
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.pdb
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ExpressionEvaluator.genruntimeconfig.cache
+C:\Users\marco\Documents\GitHub\Marzanol\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\net6.0\ref\ExpressionEvaluator.dll
