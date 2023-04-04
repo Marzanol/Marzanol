@@ -10,7 +10,11 @@ namespace ExpressionEvaluator.Operations
     {
         public double Calculate(double num1, double num2)
         {
-            throw new NotImplementedException();
+            if (num2 == 0)
+            {
+                throw new Exception("non puoi dividere per  zero");
+            }
+            return num1 / num2;
         }
     }
 }

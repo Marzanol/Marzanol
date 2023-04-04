@@ -1,0 +1,15 @@
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\bin\Debug\net6.0\CalcoloMatrici.exe
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\bin\Debug\net6.0\CalcoloMatrici.deps.json
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\bin\Debug\net6.0\CalcoloMatrici.runtimeconfig.json
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\bin\Debug\net6.0\CalcoloMatrici.dll
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\bin\Debug\net6.0\CalcoloMatrici.pdb
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.AssemblyInfo.cs
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.csproj.CoreCompileInputs.cache
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.dll
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\refint\CalcoloMatrici.dll
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.pdb
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\CalcoloMatrici.genruntimeconfig.cache
+C:\Users\marco\Documents\GitHub\Marzanol\CalcoloMatrici\CalcoloMatrici\obj\Debug\net6.0\ref\CalcoloMatrici.dll

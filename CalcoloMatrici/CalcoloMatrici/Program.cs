@@ -1,0 +1,86 @@
+﻿using System;
+using System.Threading;
+
+public class MatrixMultiplication
+{
+    static readonly int MAX = 4;
+    static readonly int MAX_THREAD = 4;
+    static int[,] matA = new int[4, 4] { { 1, 2, 3, 4 }, { 5, 6, 7, 8 }, { 9, 10, 11, 12 }, { 13, 14, 15, 16 } };
+    static int[,] matB = new int[4, 4] { { 1, 2, 3, 4 }, { 5, 6, 7, 8 }, { 9, 10, 11, 12 }, { 13, 14, 15, 16 } };
+    static int[,] matC = new int[4, 4];
+    static int step_i = 0;
+
+    class Worker
+    {
+        int i;
+
+        public Worker(int i)
+        {
+            this.i = i;
+        }
+
+        public void Run()
+        {
+            for (int j = 0; j < MAX; j++)
+            {
+                for (int k = 0; k < MAX; k++)
+                {
+                    matC[i, j] += matA[i, k] * matB[k, j];
+                }
+            }
+        }
+    }
+
+    public static void Main(string[] args)
+    {
+        // Displaying matA
+        Console.WriteLine("Matrix A");
+        for (int i = 0; i < MAX; i++)
+        {
+            for (int j = 0; j < MAX; j++)
+            {
+                Console.Write(matA[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+
+        // Displaying matB
+        Console.WriteLine("Matrix B");
+        for (int i = 0; i < MAX; i++)
+        {
+            for (int j = 0; j < MAX; j++)
+            {
+                Console.Write(matB[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+
+        // declaring four threads
+        Thread[] threads = new Thread[MAX_THREAD];
+
+        // Creating four threads, each evaluating its own part
+        for (int i = 0; i < MAX_THREAD; i++)
+        {
+            threads[i] = new Thread(new Worker(step_i++).Run);
+            threads[i].Start();
+        }
+
+        // joining and waiting for all threads to complete
+        for (int i = 0; i < MAX_THREAD; i++)
+        {
+            threads[i].Join();
+        }
+
+        // Displaying the result matrix
+        Console.WriteLine("Multiplication of A and B");
+        for (int i = 0; i < MAX; i++)
+        {
+            for (int j = 0; j < MAX; j++)
+            {
+                Console.Write(matC[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+    }
+}
+

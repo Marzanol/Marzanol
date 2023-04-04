@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExpressionEvaluator.Operations
 {
-    public interface ICalculator
+     interface ICalculator
     {
         double Calculate(double num1, double num2);
     }
