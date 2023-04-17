@@ -1,0 +1,5 @@
+C:\Users\marco\Documents\GitHub\Marzanol\utilityCodFisc\utilityCodFisc\obj\Debug\net6.0\utilityCodFisc.csproj.AssemblyReference.cache
+C:\Users\marco\Documents\GitHub\Marzanol\utilityCodFisc\utilityCodFisc\obj\Debug\net6.0\utilityCodFisc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Documents\GitHub\Marzanol\utilityCodFisc\utilityCodFisc\obj\Debug\net6.0\utilityCodFisc.AssemblyInfoInputs.cache
+C:\Users\marco\Documents\GitHub\Marzanol\utilityCodFisc\utilityCodFisc\obj\Debug\net6.0\utilityCodFisc.AssemblyInfo.cs
+C:\Users\marco\Documents\GitHub\Marzanol\utilityCodFisc\utilityCodFisc\obj\Debug\net6.0\utilityCodFisc.csproj.CoreCompileInputs.cache

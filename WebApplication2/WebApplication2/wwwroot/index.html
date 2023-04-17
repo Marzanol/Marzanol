@@ -1,0 +1,101 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Battaglia Navale</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            margin: 0 auto;
+        }
+
+        td {
+            width: 30px;
+            height: 30px;
+            border: 1px solid black;
+        }
+
+        .ship {
+            background-color: gray;
+        }
+
+        .hit {
+            background-color: red;
+        }
+
+        .miss {
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1>Battaglia Navale</h1>
+    <table id="gameboard"></table>
+
+    <script>
+        const gameboard = document.getElementById('gameboard');
+        const rows = 6;
+        const cols = 6;
+        let ships = 4;
+        let gameover = false;
+
+        let board = [];
+        for (let i = 0; i < rows; i++) {
+            let row = [];
+            for (let j = 0; j < cols; j++) {
+                row.push(0);
+            }
+            board.push(row);
+        }
+
+        function placeShips() {
+            // posizione nave 1
+            board[0][0] = 1;
+            board[0][1] = 1;
+            board[0][2] = 1;
+            // posizione nave 2
+            board[2][2] = 1;
+            board[2][3] = 1;
+            board[2][4] = 1;
+            // posizione nave 3
+            board[4][1] = 1;
+            board[4][2] = 1;
+            board[4][3] = 1;
+            // posizione nave 4
+            board[5][3] = 1;
+            board[5][4] = 1;
+            board[5][5] = 1;
+        }
+
+        function handleClick(row, col) {
+            if (gameover) {
+                return;
+            }
+            if (board[row][col] === 1) {
+                board[row][col] = 2;
+                gameboard.rows[row].cells[col].classList.add('ship');
+                alert('Hai colpito una nave!');
+                ships--;
+                if (ships === 0) {
+                    alert('Hai vinto!');
+                    gameover = true;
+                }
+            } else {
+                board[row][col] = 3;
+                gameboard.rows[row].cells[col].classList.add('miss');
+                alert('Hai mancato!');
+            }
+        }
+
+        function createBoard() {
+            for (let i = 0; i < rows; i++) {
+                let row = gameboard.insertRow();
+                for (let j = 0; j < cols; j++) {
+                    let cell = row.insertCell();
+                    cell.addEventListener('click', () => handleClick(i, j));
+                }
+            }
+        }
+
+     </script>   
+    </body>
+</html>
